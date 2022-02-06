@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>TAREA 1 IPC1</title>
+	</head>	
+	
+	<body>
+		<center>
+			<h1>Alvaro Esaú Arenas González Carnet 202102864</h1>
+
+			<table style=background-color:#DBF9FC>
+			<tr>
+				<th> Curso </td>
+				<th>    Semestre    </td>
+				<th>Información</td>
+			</tr>
+		</center>
+			<tr>
+				<td>Matemática Intermedia 1 </td>
+				<td>Tercero </td>
+				<td>Formar estudiantes capaces de utilizar los conceptos<br>
+				matemáticos relacionados con Álgebra Lineal, Técnicas de<br> 
+				integración, Aplicaciones de la Integral, Ecuaciones paramétricas,<br> 
+				Ecuaciones Polares, Sucesiones, Series y Geometría en el espacio<br>
+				tridimensional, para plantear diferentes tipos de soluciones a<br> 
+				problemas que se presentan en la práctica de la Ingeniería.</td>
+			</tr>
+
+            <tr>
+				<td>Física 1 </td>
+				<td>Tercero </td>
+				<td>Adquirir una clara comprensión de los conceptos, teoremas<br>
+				y leyes que rigen la cinemática y la dinámica de la rotación<br> 
+				de cuerpos rígidos, así como de sistemas continuos, para interpretar,<br>
+				analizar y describir fenómenos físicos, en el marco de la mecánica clásica.</td>
+			</tr>
+
+			<tr>
+				<td>Lógica de Sistemas </td>
+				<td>Tercero </td>
+				<td>Introducir al estudiante en la comprensión del pensamiento,<br> 
+				al nivel de los conceptos. Introducir al estudiante a los modelos<br> 
+				mentales y los paradigmas.</td>
+			</tr>
+
+			<tr>
+				<td>Matemática para Computación </td>
+				<td>Tercero </td>
+				<td>El estudiante reconozca, formule, manipule y aplique los <br>
+				conceptos, definiciones, teoremas, procedimientos y técnicas <br>
+				de la matemática discreta como una base que le permitirá desarrollar <br>
+				una comprensión significativa de la tecnología de información y <br>
+				comunicación; en particular, en las áreas de combinatoria, lógica,<br> 
+				conjuntos y especialmente, el álgebra de Boole.</td>
+			</tr>
+
+			<tr>
+				<td>Introduccion a la programación 1 </td>
+				<td>Tercero </td>
+				<td>Adquirir, por parte del estudiante, la destreza de analizar, <br>
+				diseñar y codificar software de alta calidad independientemente <br>
+				de la plataforma y lenguaje de programación fundamentado en los <br>
+				conocimientos básicos de la programación utilizando el Paradigma <br>
+				Orientado a Objetos.</td>
+			</tr>
+			</table>
+
+	</body>
+</html>
